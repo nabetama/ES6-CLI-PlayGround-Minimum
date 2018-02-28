@@ -1,6 +1,6 @@
 # ES6-CLI-PlayGround-Minimum
 
-It is very small package you started ECMAScript2015.
+It is very small and simple package for start ECMAScript2015.
 
 ## example
 
