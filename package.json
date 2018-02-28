@@ -1,0 +1,19 @@
+{
+  "name": "observer-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nabetama<mao.nabeta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "code": "yarn run babel-node index.js"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^2.9.0"
+  }
+}
